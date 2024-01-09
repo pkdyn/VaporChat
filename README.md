@@ -1,8 +1,8 @@
 # VaporChat
-Public repo for [VaporChat]: a chat-room for discussing all things [Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)!  
+[VaporChat](https://vapor-chat.web.app/): a Vaporwave styled chat-room where mesasages *vaporize* after every hour
 * Frontend: Created chat components  
-* Backend: Setup MongoDB schema and routes  
+* Backend: Configured MongoDB schema and routes  
 * Integrated Pusher API for real-time chat  
 * Added Google Authentication  
-* Utilized Redux for leveraging user data  
+* Utilized React hooks and Redux for personalizing user exp 
 
